@@ -24,9 +24,9 @@ margin:5px 4px 10px 3px;
 ```
 
 
-*外边距margin
-*内边距padding：补白
-margin是盒子的外边距，即盒子与盒子之间（<div>与<div>间）的距离，而padding是内边距，是盒子的边与盒子内部元素的距离。
+* 外边距margin
+* 内边距padding：补白
+margin是盒子的外边距，即盒子与盒子之间（`<div>与<div>`间）的距离，而padding是内边距，是盒子的边与盒子内部元素的距离。
   
 用故事讲解下：-----该故事来自简书 ![参考链接](https://www.jianshu.com/p/73deb2ae7992)
 
